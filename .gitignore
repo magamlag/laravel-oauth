@@ -9,3 +9,5 @@ public/css
 public/build
 public/views
 /.idea
+/errors
+npm-debug.log
